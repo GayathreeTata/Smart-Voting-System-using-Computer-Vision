@@ -19,9 +19,8 @@ Backend: Python (Flask)
 Database: SQLyog
 
 System Workflow
-Voter Authentication:
-
-1 The voter stands in front of a camera.
+1 Voter Authentication:
+The voter stands in front of a camera.
 The system captures the voter's image and matches it against the registered database using a deep learning facial recognition model.
 If authenticated, the voter is granted access to the voting system.
 
